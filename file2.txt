@@ -1,1 +1,2 @@
 Fichero para el segundo ejercicio
+Fichero modificado para producir un conflicto
