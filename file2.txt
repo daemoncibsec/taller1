@@ -1,2 +1,3 @@
 Fichero para el segundo ejercicio
 Fichero modificado para producir un conflicto
+Aquí se producirá el conflicto
